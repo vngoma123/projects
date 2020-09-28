@@ -1,8 +1,8 @@
 # cover letter<br/>
-                     Vusimuzi Sibusiso Ngoma<br/>
-                     875 Rapodile Street Zone 1, Ga-Rankuwa<br/>
-                        0614605022<br/>
-                    vngoma123@gmail.com<br/>
+                     Vusimuzi Sibusiso Ngoma
+                     875 Rapodile Street Zone 1, Ga-Rankuwa
+                        0614605022
+                    vngoma123@gmail.com
 Dear Hiring Manager,<br/>
 I am a Mathematical Statistics graduate from the University of Pretoria. I am currently doing a Data Science internship with Standard Bank Group. I work in the prebuilt AI (Artificial Intelligence) team, where we use Machine Learning algorithms to solve Artificial Intelligence problems. I possess the following skills Critical Thinking, Time Management, Basic Programming and Teamwork skills, which I hope to use in the role I will be given at your company.<br/>
 Since joining the bank, I have been a part of various projects. Most notable projects that I was a part of are as follows. I build a QNA bot for procurement team. I build a PowerApp that helps users with onboarding to the cloud. I was also apart of various other projects such as knowledge mining, Azure Speech Services and OCR. While working with the cloud team I acquired AWS Certified Cloud Practitioner Certificate and Microsoft Azure Fundamentals Certificate.<br/>
