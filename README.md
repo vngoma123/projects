@@ -1,2 +1,2 @@
 # projects
-This is description of projects I've done as an intern 
+The following are projects and Certificates I have obtained since joining the bank as a Data Science Intern  mid 2019
